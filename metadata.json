@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix RefleksiGuru - Jurnal Refleksi Mengajar \u0026 Analisis Tren Kemajuan Siswa",
+  "description": "Aplikasi Jurnal Refleksi Guru Mengajar untuk mendokumentasikan pengalaman belajar siswa, efektivitas metode pembelajaran, analisis tren kemajuan otomatis, serta unduh format Word (.docx) dan PDF resmi beridentitas Guru \u0026 Kepala Sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
